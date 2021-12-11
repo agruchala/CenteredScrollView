@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CenteredScrollView_Tests' do
+  pod 'CenteredScrollView', :path => '../'
+  
+  
+end
