@@ -1,0 +1,6 @@
+framework module CenteredScrollView {
+  umbrella header "CenteredScrollView-umbrella.h"
+
+  export *
+  module * { export * }
+}

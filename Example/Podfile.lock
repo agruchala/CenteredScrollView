@@ -1,0 +1,16 @@
+PODS:
+  - CenteredScrollView (0.1.0)
+
+DEPENDENCIES:
+  - CenteredScrollView (from `../`)
+
+EXTERNAL SOURCES:
+  CenteredScrollView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CenteredScrollView: 6edbcadea9f3785e4944d17ad92fa0d78cee4c3f
+
+PODFILE CHECKSUM: 430265c8d85b7c50aa83e8eb7f00c30a679de0ce
+
+COCOAPODS: 1.11.2

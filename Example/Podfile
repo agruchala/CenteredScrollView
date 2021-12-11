@@ -1,6 +1,5 @@
 use_frameworks!
+platform :ios, '13.0'
 target 'CenteredScrollView_Tests' do
   pod 'CenteredScrollView', :path => '../'
-  
-  
 end

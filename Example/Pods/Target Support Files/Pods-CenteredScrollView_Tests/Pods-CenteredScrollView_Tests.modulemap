@@ -1,0 +1,6 @@
+framework module Pods_CenteredScrollView_Tests {
+  umbrella header "Pods-CenteredScrollView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
